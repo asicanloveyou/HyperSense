@@ -91,11 +91,11 @@ const myLOGO = [
 
 const proxy = {
 
-    test_proxy: true,
+    test_proxy: false,
     proxy_type: "socks5", // socks4, socks5, http
     proxy_username: "",
     proxy_password: "",
-    proxy_list : "proxy.txt", // file name proxy list
+    proxy_list : "NOIR4/proxy.txt", // file name proxy list
     proxy_live: "proxy_live.txt", // file name proxy live
     final_proxy: "socks5://46.4.73.88:3000",
 }
