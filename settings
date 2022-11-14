@@ -97,7 +97,7 @@ const proxy = {
     proxy_password: "",
     proxy_list : "NOIR4/proxy.txt", // file name proxy list
     proxy_live: "proxy_live.txt", // file name proxy live
-    final_proxy: "socks5://46.4.73.88:3000",
+    final_proxy: "",
 }
 
 
