@@ -45,9 +45,9 @@ let setup = {
 
     howManyThread: 5, // set as you want , no limit
 
-    from_name: "Data Center",
+    from_name: "",
 
-    mail_subject: "Leaked Data",
+    mail_subject: "TEST SMTP TODAY",
 
     replyTo: "",
 
