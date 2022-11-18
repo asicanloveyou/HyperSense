@@ -8,12 +8,12 @@ const smtp = [
       
       
     {
-        host: 'smtpout.secureserver.net',
+        host: '',
         port: 587,
         secure: false,
-        username: 'suporte@vibedescontos.com',
-        password: 'Mydoria123',
-        from_email: 'tanselment@dfchase.com',
+        username: '',
+        password: '',
+        from_email: '',
       },
 
 
