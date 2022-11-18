@@ -102,9 +102,13 @@ const attachment = [
 
 ]
 
+// CONVERT HTML TO IMAGE
+// WILL HELP TO MAKE YOUR LETTER INBOX AGAIN
 const LetterTOimage = {
+ 
     LetterToImage: false,
     fileName_LetterToImage: "./letterToImage.html",
+ 
 }
 
 const image = {
