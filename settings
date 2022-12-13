@@ -57,7 +57,7 @@ let setup = {
 
     email_destination: "NOIR@NOIR.COM",
 
-    hidden_frommail : true, // if you want to hide from email, set it here
+    hidden_frommail : false, // if you want to hide from email, set it here
     // HIDDEN FROMMAIL IS NOT GOOD OPTION IF YOUR SMTP IS NOT STRONG ENOUGH
 
     URLencode: "https://google.com", // ENCODE YOUR URL HERE , FUNCTION WORKING HERE
